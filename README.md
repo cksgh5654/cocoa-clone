@@ -1,3 +1,3 @@
 # cocoa clone
 
-CSS got so much better!
+좋아요
